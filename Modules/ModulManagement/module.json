@@ -1,0 +1,11 @@
+{
+    "name": "ModulManagement",
+    "alias": "modulmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ModulManagement\\Providers\\ModulManagementServiceProvider"
+    ],
+    "files": []
+}
